@@ -2,11 +2,6 @@
 
 Cake Shop é um aplicativo mobile desenvolvido em React Native, que permite aos usuários explorar nossa confeitaria, escolher kits festa, visualizar nosso catálogo e criar uma lista de desejos.
 
-## 📹 Demonstração
-
-[Assista à demonstração do Cake Shop](assets/cake-shop-demo.mp4)
-
-
 ## 📋 Funcionalidades
 
 - **Sobre a Empresa:** Informações detalhadas sobre nossa confeitaria.
@@ -49,3 +44,20 @@ Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
 - **Nome:** Kethelyn Ellen
 - **Telefone:** (11) 98368-5229
+
+
+## 📹 Demonstração
+
+[Assista à demonstração do Cake Shop]
+
+
+https://github.com/user-attachments/assets/579484fd-fac5-4c57-abd7-2f8e4876a16e
+
+
+
+
+
+
+
+
+
