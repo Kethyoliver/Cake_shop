@@ -4,7 +4,7 @@ Cake Shop é um aplicativo mobile desenvolvido em React Native, que permite aos 
 
 ## 📹 Demonstração
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/g2d0g_BfGck?si=1eQyM2FSZ58Ku3Pn" frameborder="0" allowfullscreen></iframe>
+[Assista à demonstração do Cake Shop](assets/cake-shop-demo.mp4)
 
 
 ## 📋 Funcionalidades
@@ -20,7 +20,7 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento local:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/cake-shop.git
+    git clone https://github.com/kethyoliver/cake-shop.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
